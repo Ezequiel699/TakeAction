@@ -1,0 +1,14 @@
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\bin\Debug\net10.0\TakeAction.exe
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\bin\Debug\net10.0\TakeAction.deps.json
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\bin\Debug\net10.0\TakeAction.runtimeconfig.json
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\bin\Debug\net10.0\TakeAction.dll
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\bin\Debug\net10.0\TakeAction.pdb
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.dll
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\refint\TakeAction.dll
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.pdb
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\TakeAction.genruntimeconfig.cache
+C:\Users\ezequ\source\repos\TakeAction\TakeAction\obj\Debug\net10.0\ref\TakeAction.dll
