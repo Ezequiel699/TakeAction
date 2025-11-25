@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Página-1" id="ic03CoyTM8Cl-9sMbLMu">
+    <mxGraphModel dx="604" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Simulador de vida&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-2" edge="1" parent="1" source="vO1zoQ0iuReufOiKh9CA-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="vO1zoQ0iuReufOiKh9CA-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="390" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Variables:&amp;nbsp;&lt;br&gt;energia&lt;br&gt;motivacion&amp;nbsp;&lt;br&gt;estres&amp;nbsp;&lt;br&gt;enfoque" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-5" edge="1" parent="1" source="vO1zoQ0iuReufOiKh9CA-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vO1zoQ0iuReufOiKh9CA-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="280" as="sourcePoint" />
+            <mxPoint x="480" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="acciones que puedes hacer:&amp;nbsp;&lt;br&gt;1. hacer ejercico&lt;br&gt;Procrastinar&lt;br&gt;Estudiar&amp;nbsp;&lt;br&gt;ver redes&amp;nbsp;&lt;br&gt;meditar" vertex="1">
+          <mxGeometry height="150" width="180" x="230" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Resultados:&lt;br&gt;Ejercicio: llover, alcanzaste nuevo pr&amp;nbsp;&lt;br&gt;Procrastinar: te sentiste triste despues, no pudiste entregar una tarea&amp;nbsp;" vertex="1">
+          <mxGeometry height="162.5" width="190" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Resultados:&lt;br&gt;ver redes: la soltaste&amp;nbsp; ra, duraste horas ahi&amp;nbsp;&lt;br&gt;Meditar: Te sentiste en paz luego, descubriste algo nievo de ti&amp;nbsp;" vertex="1">
+          <mxGeometry height="152.5" width="200" x="360" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-12" edge="1" parent="1" source="vO1zoQ0iuReufOiKh9CA-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vO1zoQ0iuReufOiKh9CA-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="410" as="sourcePoint" />
+            <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vO1zoQ0iuReufOiKh9CA-13" edge="1" parent="1" source="vO1zoQ0iuReufOiKh9CA-6" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="vO1zoQ0iuReufOiKh9CA-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="420" as="sourcePoint" />
+            <mxPoint x="411" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
